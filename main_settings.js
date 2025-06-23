@@ -2,7 +2,6 @@
 // Hier einfach eine Zeile hinzufügen für ein neues Tool!
 
 const tools = [
-    { name: 'SM-Vergleich', file: 'tools/sm_vergleich.html', icon: '🔧', category: 'Testecke' },
     { name: 'Herbert CEE Helper', file: 'tools/Herbert_CEE_Helper_Test.html', icon: '🌱', category: 'Testecke' },
     { name: 'SM-Vergleich', file: 'tools/sm_vergleich.html', icon: '🌱', category: 'Testecke' }
     
